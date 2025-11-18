@@ -22,7 +22,7 @@ export default function Hero() {
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
 
   const config: HeroConfig = {
-    title: 'Build the Future with Dark Tech',
+    title: 'Build the Future Dark Tech',
     subtitle: 'Revolutionary Platform',
     description:
       'Experience the next generation of technology with our cutting-edge platform. Built for developers, designed for the future.',
